@@ -56,11 +56,12 @@ menu{
 }
 .menu li  a{
     float:left;
-    display: block;
+    display: none;
     color: black;
     text-align: center;
     padding: 22px 80px;
     text-decoration: none;
+	
 }
 li a:hover {
     background-color: white;
